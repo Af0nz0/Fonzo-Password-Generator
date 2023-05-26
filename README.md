@@ -7,10 +7,10 @@
 
 -From this project i honestly learned alot since im just learning little by little. From the resourses i have ike the zoom logs and youtube i was able to finish this project and be proud of it.
 
-The Password Geneorator looks like:
+The Password Generator looks like:
 ![Alt text](Screenshot%202023-05-25%20at%208.32.57%20PM.png)
 
-Check out the site [Password Generator](file:///Users/alfonsotorresgonzalez/Desktop/bootcamp-class/Fonzo-Password-Generator/index.html).
+Check out the site [Password Generator] (file:///Users/alfonsotorresgonzalez/Desktop/bootcamp-class/Fonzo-Password-Generator/index.html)
 
 Their is  no need to install anything for you to run this website as long as you have accsess to the internet.
 
